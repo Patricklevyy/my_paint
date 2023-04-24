@@ -21,7 +21,7 @@ Click on the draw button to begin drawing, select a color from those available, 
 
 ## My Paint Screenshot
 
-![my_paint](paint.png)
+![my_paint](./pictures/paint.png)
 
 ## Features
 
